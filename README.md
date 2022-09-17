@@ -2,4 +2,4 @@
 
 A portfolio site made using HTML, CSS and JavaScript.
 
-![image info](Image.png) 
+![image info](Image.png)
